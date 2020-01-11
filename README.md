@@ -1,1 +1,1 @@
-Simple PHP project using Composer
+Simple PHP 7 project using Composer
