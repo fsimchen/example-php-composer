@@ -1,6 +1,6 @@
 {
     "name": "fsimchen/example-php-composer",
-    "description": "Simple PHP project using Composer.",
+    "description": "Simple PHP 7 project using Composer.",
     "keywords": ["php", "composer"],
     "license": "MIT",
     "authors": [
