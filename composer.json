@@ -16,7 +16,6 @@
     "require": {
         "php": "^7.1",
         "ext-json": "*",
-        "ext-openssl": "*",
         "nesbot/carbon": "^2.0"
     },
     "autoload": {
