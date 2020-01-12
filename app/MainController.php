@@ -6,6 +6,11 @@ use Carbon\Carbon;
 
 class MainController
 {
+    /**
+     * Show the application index page.
+     *
+     * @return mixed
+     */
     public static function index()
     {
         echo 'vendor Carbon\Carbon: ' . Carbon::now()->toDateString();

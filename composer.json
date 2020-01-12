@@ -1,7 +1,7 @@
 {
     "name": "fsimchen/example-php-composer",
     "description": "Simple PHP 7 project using Composer.",
-    "keywords": ["php", "composer"],
+    "keywords": ["php", "php7", "example", "starter", "template", "composer", "autoload"],
     "support": {
         "issues": "https://github.com/fsimchen/example-php-composer/issues",
         "source": "https://github.com/fsimchen/example-php-composer"
